@@ -8,5 +8,11 @@
         "versioning.md"
     ],
     "create-api.md",
-    "create-api-controller.md"
+    "create-api-controller.md",
+    "add-api-routes.md",
+    [
+        "get-posts.md",
+        "get-posts-2.md",
+        "get-posts-3.md"
+    ]
 ]

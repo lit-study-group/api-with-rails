@@ -1,9 +1,10 @@
 ## 基本のコントローラを作る
 
 ```
-$ mkdir app/controllers/api/v1
+$ mkdir -p app/controllers/api/v1
 ```
 
+コントローラを作る
 
 ```
 <!-- app/controllers/api/v1/application_controller.rb -->
