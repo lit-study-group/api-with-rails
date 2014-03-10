@@ -6,5 +6,7 @@
         "about-web-apis.md",
         "json.md",
         "versioning.md"
-    ]
+    ],
+    "create-api.md",
+    "create-api-controller.md"
 ]
