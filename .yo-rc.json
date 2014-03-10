@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "API with Rails",
+    "packageVersion": "0.1.0",
+    "useSass": true
+  }
+}
