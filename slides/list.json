@@ -4,6 +4,7 @@
     [
         "about-apis.md",
         "about-web-apis.md",
-        "json.md"
+        "json.md",
+        "versioning.md"
     ]
 ]
