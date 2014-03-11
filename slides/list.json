@@ -22,5 +22,9 @@
         "user-token-model.md",
         "user-token-model-confirm.md"
     ],
-    "user-auth.md"
+    [
+        "user-auth-header.md",
+        "user-auth.md",
+        "user-auth-check.md"
+    ]
 ]
