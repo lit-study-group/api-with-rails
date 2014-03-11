@@ -12,7 +12,6 @@ class Api::V1::SessionsController < Api::ApplicationController
   def create
     @user = User.find_by(email: params[:user][:email]) if params[:user]
     if @user && @user.authenticate(params[:user][:password])
-      @user.initialize_token!
       render @user
     else
       render json: { error: 'メールアドレスあるいはパスワードが異なる'}, status: 403
