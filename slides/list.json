@@ -26,5 +26,10 @@
         "user-auth-header.md",
         "user-auth.md",
         "user-auth-check.md"
+    ],
+    [
+        "new-session.md",
+        "new-session-routes.md",
+        "new-session-view.md"
     ]
 ]
