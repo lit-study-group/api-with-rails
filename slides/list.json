@@ -15,5 +15,12 @@
         "get-posts.md",
         "get-posts-2.md",
         "get-posts-3.md"
-    ]
+    ],
+    [
+        "add-user-token.md",
+        "add-user-token-2.md",
+        "user-token-model.md",
+        "user-token-model-confirm.md"
+    ],
+    "user-auth.md"
 ]
